@@ -1,0 +1,7 @@
+id_venda,produto,preco,quantidade,data
+1,Camiseta,59.9,2,2025-04-01
+2,Tenis,199.9,,2025-04-01
+3,Boné,39.9,4,2025-04-02
+4,Moletom,129.9,9,2025-04-03
+5,Camiseta,,1,2025-04-03
+6,Chapéu,89.9, 8, 2025-04-04
