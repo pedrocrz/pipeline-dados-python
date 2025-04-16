@@ -10,17 +10,17 @@ Este projeto é um pipeline básico de dados feito com Python, focado em leitura
     │ └── vendas.db 
     ├── main.py 
     ├── relatorios 
-    │ ├── grafico_total_por_produto.png 
-    │ ├── quantidade_por_produto.csv 
-    │ ├── relatorio.csv 
-    │ ├── total_por_produto.csv 
-    │ └── vendas_por_dia.csv 
+    │    ├── grafico_total_por_produto.png 
+    │    ├── quantidade_por_produto.csv 
+    │    ├── relatorio.csv 
+    │    ├── total_por_produto.csv 
+    │    └── vendas_por_dia.csv 
     └── scripts 
-        ├── carregar.py 
-        ├── extrair.py 
-        ├── graficos.py 
-        ├── relatorio.py 
-        └── transformar.py ``` </pre>
+         ├── carregar.py 
+         ├── extrair.py 
+         ├── graficos.py 
+         ├── relatorio.py 
+         └── transformar.py ``` </pre>
 
 ## Funcionalidades
 
